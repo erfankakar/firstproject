@@ -8,5 +8,7 @@
 </head>
 <body>
     <a href="" class="btn btn-primary">about us</a>
+    <a href="" class="btn btn-primary">about me</a>
+    <a href="" class="btn btn-primary">about you</a>
 </body>
 </html>
